@@ -47,25 +47,25 @@ The two router interfaces act as the default gateways for the two subnets.
 
 **Router interfaces and routing table**
 
-![Router interface status and routing table](screenshots/ROUTER CONFIGURATION PROOF (ROUTING TABLE).png)
+![Router interface status and routing table](< screenshots/ROUTER CONFIGURATION PROOF (ROUTING TABLE).png >)
 
 The router output shows both LAN interfaces as `up/up` and both connected networks in the routing table. This confirms the router knows those two directly connected networks. It does not, by itself, prove every end-to-end service works.
 
 **Desktop IP configuration**
 
-![desk-1 IP configuration](screenshots/DESKTOP-1-IP- CONFIGURATION.png)
+![desk-1 IP configuration](< screenshots/DESKTOP-1-IP- CONFIGURATION.png >)
 
-![Desk-2 IP configuration](screenshots/DESKTOP-2-IP- CONFIGURATION.png)
+
+![Desk-2 IP configuration](< screenshots/DESKTOP-2-IP- CONFIGURATION.png >)
 
 **Server IP configuration**
 
-![Server IP configuration](screenshots/SERVER-IP- CONFIGURATION.png)
-
+![Server IP configuration](< screenshots/SERVER-IP- CONFIGURATION.png >)
 **Email test**
 
-![Email received successfully on Desk-2](screenshots/SUCESSFUL ICMP FROM DESK-2 TO DESK-1.png)
+![Email received successfully on Desk-2](< screenshots/SUCESSFUL EMAIL SENT AND RECEIVED FROM DESK 1 TO DESK 2.png >)
 
-
+screenshots/SERVER-IP-CONFIGURATION.png
 ## Lessons learned
 
 This project helped me practise the relationship between:
