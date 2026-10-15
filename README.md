@@ -47,25 +47,24 @@ The two router interfaces act as the default gateways for the two subnets.
 
 **Router interfaces and routing table**
 
-![Router interface status and routing table](screenshots/ROUTER-CONFIGURATION-PROOF-ROUTING-TABLE.png)
+![Router interface status and routing table](screenshots/ROUTER CONFIGURATION PROOF (ROUTING TABLE).png)
 
 The router output shows both LAN interfaces as `up/up` and both connected networks in the routing table. This confirms the router knows those two directly connected networks. It does not, by itself, prove every end-to-end service works.
 
 **Desktop IP configuration**
 
-![desk-1 IP configuration](screenshots/DESKTOP-1-IP-CONFIGURATION.png)
+![desk-1 IP configuration](screenshots/DESKTOP-1-IP- CONFIGURATION.png)
 
-![Desk-2 IP configuration](screenshots/DESKTOP-2-IP-CONFIGURATION.png)
+![Desk-2 IP configuration](screenshots/DESKTOP-2-IP- CONFIGURATION.png)
 
 **Server IP configuration**
 
-![Server IP configuration](screenshots/SERVER-IP-CONFIGURATION.png)
+![Server IP configuration](screenshots/SERVER-IP- CONFIGURATION.png)
 
 **Email test**
 
-![Email received successfully on Desk-2](screenshots/SUCCESS-MAIL-SENT-AND-RECEIVED-BY-DESK-2.png)
+![Email received successfully on Desk-2](screenshots/SUCESSFUL ICMP FROM DESK-2 TO DESK-1.png)
 
-The screenshots document a successful email send/receive test in Packet Tracer. This is a useful application-level test, beyond simply checking whether cables are connected.
 
 ## Lessons learned
 
